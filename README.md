@@ -5,10 +5,6 @@
   <img height="180em" src="https://github-readme-stats-chofs-projects.vercel.app/api/top-langs/?username=GiovanniYuriMita&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="AkaliPixelArt.gif"  />
-</div>
-
 ## Connect with me:
 
 <div align="left">
@@ -68,10 +64,12 @@
 
 </details>
 
-###
+---
+
+<div align="center">
+  <img height="180em" src="AkaliPixelArt.gif"  />
+</div>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/GiovanniYuriMita/GiovanniYuriMita/output/snake.svg" alt="Snake animation" />
-
-###
