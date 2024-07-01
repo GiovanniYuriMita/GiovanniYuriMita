@@ -1,11 +1,9 @@
 # Hi there, I'm Giovanni Yuri - AKA Chofs 👋 
 
 <div align="center">
-  <img height="180em" align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-chofs-projects.vercel.app/api?username=GiovanniYuriMita&show_icons=true&theme=material-palenight" />
-  
-  <img height="180em" align="right" src="https://github-readme-stats-chofs-projects.vercel.app/api/top-langs/?username=GiovanniYuriMita&layout=compact&langs_count=16&theme=material-palenight"/>
+  <img height="180em" alt="Giovanni Yuri's GitHub Stats" src="https://github-readme-stats-chofs-projects.vercel.app/api?username=GiovanniYuriMita&show_icons=true&theme=material-palenight" />
+  <img height="180em" src="https://github-readme-stats-chofs-projects.vercel.app/api/top-langs/?username=GiovanniYuriMita&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
-
 
 <div align="center">
   <img height="180em" src="AkaliPixelArt.gif"  />
