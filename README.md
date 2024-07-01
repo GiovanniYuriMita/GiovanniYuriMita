@@ -1,13 +1,35 @@
-<h2 align="left">Hi 👋! My name is Giovanni Yuri and I'm a SRE Analyst at BW Soluções</h2>
+# Hi there, I'm Giovanni Yuri - AKA Chofs 👋 
 
-###
+<div align="center">
+  <img height="180em" align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-chofs-projects.vercel.app/api?username=GiovanniYuriMita&show_icons=true&theme=material-palenight" />
+  
+  <img height="180em" align="right" src="https://github-readme-stats-chofs-projects.vercel.app/api/top-langs/?username=GiovanniYuriMita&layout=compact&langs_count=16&theme=material-palenight"/>
+</div>
 
-[![Chofs GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GiovanniYuriMita&show_icons=true&theme=material-palenight)
-](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GiovanniYuriMita&layout=compact&langs_count=16&theme=material-palenight"/>
+<div align="center">
+  <img height="180em" src="AkaliPixelArt.gif"  />
+</div>
 
-###
+## Connect with me:
+
+<div align="left">
+  <a href="discord.com/users/420288136539537419" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/giovanni-yuri-mita-chaves" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+## About Me
+
+- 💻 I'm currently working at BW Soluções as a SRE Analyst
+- 🌱 I’m currently learning and practicing DevSecOps
+- 🥅 2024 Goals: Learn more about Kubernetes and Terraform
+- ⚡ Fun fact: I love to play videogames
+
+### Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -33,22 +55,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="discord.com/users/420288136539537419" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/giovanni-yuri-mita-chaves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/techiediaries/nextauth-mongodb/pull/1) in [techiediaries/nextauth-mongodb](https://github.com/techiediaries/nextauth-mongodb)
+2. 💪 Opened PR [#64130](https://github.com/vercel/next.js/pull/64130) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#1235](https://github.com/shadcn-ui/ui/issues/1235#issuecomment-1679215686) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. ❗ Opened issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+<!--END_SECTION:activity-->
 
-###
-
-<div align="center">
-  <img height="200" src="AkaliPixelArt.gif"  />
-</div>
+</details>
 
 ###
 
