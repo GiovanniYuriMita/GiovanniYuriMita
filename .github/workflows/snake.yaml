@@ -1,7 +1,7 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute everyday
+  schedule: # Runs at 22:00, only on Monday, Wednesday, and Friday.
     - cron: "0 22 * * 1,3,5"
 
   workflow_dispatch:
@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
