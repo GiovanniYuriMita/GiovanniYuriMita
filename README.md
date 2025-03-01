@@ -1,4 +1,4 @@
-# Hi there, I'm Giovanni Yuri - AKA Chofs 👋 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=3800&pause=100&color=3EC819FF&width=600&height=60&lines=Hello%2C+I'm+Giovanni+Yuri+👋;I'm+a+Site+Reliability+Engineer+💻;I'm+a+DevOps+Specialist+🧑🏻‍💻)
 
 <div align="center">
   <img height="180em" alt="Giovanni Yuri's GitHub Stats" src="https://github-readme-stats-chofs-projects.vercel.app/api?username=GiovanniYuriMita&show_icons=true&theme=material-palenight" />
@@ -23,7 +23,7 @@
 - 🥅 2024 Goals: Learn more about Kubernetes and Terraform
 - ⚡ Fun fact: I love to play videogames
 
-### Languages and Tools:
+## Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
