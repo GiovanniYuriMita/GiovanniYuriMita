@@ -18,9 +18,8 @@
 
 ## About Me
 
-- 💻 I'm currently working at BW Soluções as a SRE Analyst
-- 🌱 I’m currently learning and practicing DevSecOps
-- 🥅 2024 Goals: Learn more about Kubernetes and Terraform
+- 💻 I'm currently working at [Delfia](https://delfia.tech/) as a Pre-Sales DevSecOps Consultant
+- 🌱 I’m drawn to Observability, DevSecOps and FinOps cultures
 - ⚡ Fun fact: I love to play videogames
 
 ## Languages and Tools:
